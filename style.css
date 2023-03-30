@@ -16,6 +16,10 @@
     pointer-events: none;
 }
 
+#customPreheaderContainer .hide {
+    display: none!important;
+}
+
 #customPreheaderContainer .preheader-max-container {
     display: flex;
     flex-direction: row;
@@ -59,11 +63,6 @@
 }
 
 /* description */
-#customPreheaderContainer .desc-img-desktop {
-    /* height: auto;
-    width: 100%; */
-}
-
 #customPreheaderContainer .desc-img-mobile {
     display: none;
 }
