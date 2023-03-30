@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "kotsovolos-2";
+	src: url("https://kotsovolos.blob.core.windows.net/site/include/ecom/assets/services-custom-template/fonts/kotsovolos-icons-2.eot");
+	src: url("https://kotsovolos.blob.core.windows.net/site/include/ecom/assets/services-custom-template/fonts/kotsovolos-icons-2.eot?#iefix")
+		format("embedded-opentype"),
+        url("https://kotsovolos.blob.core.windows.net/site/include/ecom/assets/services-custom-template/fonts/kotsovolos-icons-2.woff")
+		format("woff"),
+        url("https://kotsovolos.blob.core.windows.net/site/include/ecom/assets/services-custom-template/fonts/kotsovolos-icons-2.ttf")
+		format("truetype"),
+        url("https://kotsovolos.blob.core.windows.net/site/include/ecom/assets/services-custom-template/fonts/kotsovolos-icons-2.svg")
+		format("svg");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'CFAstyStd-Book';
+    src: url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Book.eot');
+    src: url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Book.woff') format('woff'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Book.ttf') format('truetype'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Book.svg#CFAstyStd-Book') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CFAstyStd-Medium';
+    src: url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Medium.eot');
+    src: url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Medium.woff') format('woff'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Medium.ttf') format('truetype'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Medium.svg#CFAstyStd-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CFAstyStd-Bold';
+    src: url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Bold.eot');
+    src: url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Bold.woff') format('woff'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Bold.ttf') format('truetype'),
+        url('https://kotsovolos.blob.core.windows.net/pages/bnfghdnstghtykulfd/fonts/cfasty/CFAstyStd-Bold.svg#CFAstyStd-Bold') format('svg');
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="includes.css">
+</head>
+<body>
+    <div id="customPreheaderContainer">
+        <div class="preheader-max-container opened" >
+            <!-- Big Button -->
+            <button class="big-button">Πρόλαβέ το</button>
+            <div id="prehLeft" class="preh-left">
+                <!-- LOGO -->
+                <div class="logo-container">
+                    <img class="logo-img" id="logoImg" />
+                </div>
+
+                <!-- DESC -->
+                <div class="desc-container">
+                    <img class="desc-img-desktop" id="descImgDesktop">
+                    <img class="desc-img-mobile" id="descImgMobile">
+                </div>
+            </div>
+            <div id="prehMiddle" class="preh-middle">
+                <!-- COUNTDOWN -->
+                <div class="countdown-cont" id="countdownCont">
+                    <div id="countdownText" class="countdown-text">Απομένουν</div>
+                    <div class="countdown">
+                        <div class="countdown-row-numbers">
+                            <div class="days number-col">
+                                <div id="daysNo">00</div>
+                            </div>
+                            <div id="daysDivider" class="divider">:</div>
+                            <div class="hours number-col">
+                                <div id="hoursNo">00</div>
+                            </div>
+                            <div id="hoursDivider" class="divider">:</div>
+                            <div class="minutes number-col">
+                                <div id="minutesNo">00</div>
+                            </div>
+                            <div id="minutesDivider" class="divider">:</div>
+                            <div class="seconds number-col">
+                                <div id="secondsNo">00</div>
+                            </div>
+                        </div>
+                        <div class="countdown-row-text">
+                            <div id="daysText" class="number-text">Ημέρες</div>
+                            <div id="hoursText" class="number-text">Ώρες</div>
+                            <div id="minutesText" class="number-text">Λεπτά</div>
+                            <div id="secondsText" class="number-text">Δεύτερα</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="prehRight" class="preh-right">
+                <!-- CTA -->
+                <a id="ctaBtn" class="cta-btn">
+                    <div id="ctaText"></div>
+                    <span class="icon icon-arrow-down"></span>
+                </a>
+                <div id="dropdownBtn" class="dropdown-btn">
+                    <div id="dropdownText"></div>
+                    <span class="icon icon-arrow-down"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
